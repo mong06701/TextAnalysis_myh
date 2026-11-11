@@ -20,6 +20,7 @@ dependencies = [
     "scikit-learn>=1.9.1",
     "scipy>=1.18.1",
     "seaborn>=0.13.2",
+    "sentence-transformers>=6.2.0",
     "statsmodels>=0.15.0",
     "tensorboard>=2.21.0",
     "uvicorn>=0.54.0",
